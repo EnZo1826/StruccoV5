@@ -2056,8 +2056,8 @@
             "Theme"
           ],
           "articleLayout": false,
-          "arrowleft": "<img src='@PROJECT_PATH@/assets/images/arrowleft10.png'>",
-          "arrowright": "<img src='@PROJECT_PATH@/assets/images/arrowright11.png'>",
+          "arrowleft": "<img src='@PROJECT_PATH@/assets/images/arrowleft12.png'>",
+          "arrowright": "<img src='@PROJECT_PATH@/assets/images/arrowright13.png'>",
           "allItem": "All",
           "_name": "gallery2",
           "_anchor": "gallery2-p"
