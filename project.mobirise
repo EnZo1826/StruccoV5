@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "StruccoV4",
-    "currentPage": "Projects.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -2056,8 +2056,8 @@
             "Theme"
           ],
           "articleLayout": false,
-          "arrowleft": "<img src='@PROJECT_PATH@/assets/images/arrowleft12.png'>",
-          "arrowright": "<img src='@PROJECT_PATH@/assets/images/arrowright13.png'>",
+          "arrowleft": "<img src='@PROJECT_PATH@/assets/images/arrowleft14.png'>",
+          "arrowright": "<img src='@PROJECT_PATH@/assets/images/arrowright15.png'>",
           "allItem": "All",
           "_name": "gallery2",
           "_anchor": "gallery2-p"
